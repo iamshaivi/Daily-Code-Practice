@@ -3,8 +3,6 @@
 Welcome to the **WTC Coding Practice Repository**.  
 This repository is a collaborative workspace where the **WTC team** solves programming problems, strengthens problem-solving skills, and builds a **strong personal and team coding brand** through consistent GitHub contributions.
 
----
-
 ## 🎯 Purpose of This Repository
 
 - Practice and master **Data Structures & Algorithms**
@@ -13,8 +11,6 @@ This repository is a collaborative workspace where the **WTC team** solves progr
 - Maintain **clean code and standard conventions**
 - Track individual and team progress transparently
 
----
-
 ## 👥 Who Can Contribute?
 
 This repository is intended **only for WTC team members**.  
@@ -22,8 +18,6 @@ Every contributor is expected to:
 - Solve assigned programming questions
 - Push solutions regularly
 - Follow the repository standards strictly
-
----
 
 ## 📁 File Naming Convention (Strictly Mandatory)
 
@@ -64,8 +58,6 @@ Make sure:
 - Your solution matches the problem statement
 - No copied or plagiarized code is pushed
 
----
-
 ## 🛠️ Allowed Programming Languages
 
 You may use:
@@ -79,8 +71,6 @@ Choose your preferred language, but ensure:
 - Proper formatting
 - Meaningful variable names
 
----
-
 ## 📌 Contribution Guidelines
 
 1. Clone or fork the repository (as instructed)
@@ -88,8 +78,6 @@ Choose your preferred language, but ensure:
 3. Write clean and well-structured code
 4. Push your changes to the repository
 5. Update the **progress tracking sheet** after every submission
-
----
 
 ## 📊 Progress Tracking
 
@@ -101,8 +89,6 @@ Each contributor must update the shared tracking sheet with:
 
 This helps maintain **accountability and transparency**.
 
----
-
 ## 🏆 Building the WTC Brand
 
 This repository represents the **technical identity of WTC**.  
@@ -113,8 +99,6 @@ Your contributions should reflect:
 
 Code as if a **recruiter or senior engineer** is reviewing it.
 
----
-
 ## 📬 Support
 
 For any doubts related to:
@@ -123,8 +107,6 @@ For any doubts related to:
 - File naming conventions
 
 Please contact the **WTC core team**.
-
----
 
 ### 🔥 Code Daily. Improve Constantly. Build Your Brand.
 
