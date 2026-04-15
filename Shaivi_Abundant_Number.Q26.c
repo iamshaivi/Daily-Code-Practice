@@ -1,4 +1,3 @@
-```c
 // Abundant Number or Not in C Program
 
 // Method 1: Using for Loop (Brute Force)
@@ -336,4 +335,3 @@ int main() {
     return 0;
 }
 // Method 13 - Macro  We define IS_ABUNDANT as a macro that calls abundHelper(). Wherever IS_ABUNDANT(n) is written it gets replaced by abundHelper(n). Good to know how macros wrap function calls cleanly in C.
-```
